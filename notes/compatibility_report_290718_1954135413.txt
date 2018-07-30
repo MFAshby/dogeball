@@ -1,0 +1,12 @@
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Missing audiogroup for sound: 'quack' - setting to default audio group
+Missing audiogroup for sound: 'boom' - setting to default audio group
+Missing audiogroup for sound: 'wow' - setting to default audio group
+Missing audiogroup for sound: 'quack2' - setting to default audio group
+Game speed set to 30
+Added compatibility script 'action/action_bounce.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'
